@@ -14,11 +14,11 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapis.xyz': 'Your Key',
+	'https://zenzapis.xyz': '196d0157b325',
 }
 
 // Other
-global.owner = ['6285822347348','6285822347348','6285822347348']
+global.owner = ['6281328497520','6285822347348','6285822347348']
 global.premium = ['6285822347348']
 global.packname = 'Sticker by'
 global.author = 'ArullOfc'
